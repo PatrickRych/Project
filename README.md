@@ -12,7 +12,7 @@ To transition into a data analyst position where I can apply my hands-on experie
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Equity Factor Decomposition | <a href="https://github.com/PatrickRych/EquityFactor">Equity Factor Model</a>|
-| Covariance & Correlation Modeling | <a href="https://google.com">Covariance & Correlation Matrix </a>|
+| Covariance & Correlation Modeling | <a href="https://github.com/PatrickRych/EquityFactor">Equity Factor Model</a>|
 | Factor Regression        | Factor Regression Tool  |
 | Trade Signal Dashboard    | Quant Dashboard |
 | Rate Curve & Term Structure Modeling                  | Rate Dynamics |
