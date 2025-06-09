@@ -19,7 +19,9 @@ To transition into a data analyst position where I can apply my hands-on experie
 | Backtesting Engine for Strategy Testing | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>|
 | Macro Economic Modeling| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>|
 | Relative Rotation Modeling| <a href="https://github.com/PatrickRych/RRG-Visualizer">RRG Visualizer </a>|
+| Potfolio and Journal Trade Analysis | <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>|
 
+https://github.com/PatrickRych/Portfolio-Manager
 
 
 ## Tools
