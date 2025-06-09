@@ -7,7 +7,7 @@ Project manager with experience leading a family-run homebuilding and real estat
 
 To transition into a data analyst position where I can apply my hands-on experience developing economic and statistical models in Excel, with a focus on translating real-world data into actionable insights for financial or operational performance.
 
-## Skills
+## Project Builds 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,6 +20,7 @@ To transition into a data analyst position where I can apply my hands-on experie
 | Macro Economic Modeling| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>|
 | Relative Rotation Modeling| <a href="https://github.com/PatrickRych/RRG-Visualizer">RRG Visualizer </a>|
 | Potfolio and Journal Trade Analysis | <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>|
+| Streamlining Business Analysis| <a href="?">Project Manager </a>|
 
 https://github.com/PatrickRych/Portfolio-Manager
 
@@ -56,4 +57,10 @@ https://github.com/PatrickRych/Portfolio-Manager
 
 ## Projects
 - <a href="https://github.com/PatrickRych/EquityFactor">Equity Risk Factor</a>
-- SOC Automation Project
+- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>
+- <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>
+- <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>
+- <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>
+- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>
+- <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
+- <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>
