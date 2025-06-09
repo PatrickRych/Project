@@ -14,10 +14,13 @@ To transition into a data analyst position where I can apply my hands-on experie
 | Equity Factor Decomposition | <a href="https://github.com/PatrickRych/EquityFactor">Equity Factor Model</a>|
 | Covariance & Correlation Modeling | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>|
 | Factor Regression        | <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>|
-| Trade Signal Dashboard    | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Quant Dashboard </a>|
-| Rate Curve & Term Structure Modeling                  | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Rate Dynamic Modeling </a>|
+| Trade Signal Dashboard    | <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>|
+| Rate Curve & Term Structure Modeling                  | <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>|
 | Backtesting Engine for Strategy Testing | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>|
-| Relative Rotation Analysis | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">RRG Visualizer </a>|
+| Macro Economic Modeling| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>|
+| Relative Rotation Modeling| <a href="https://github.com/PatrickRych/RRG-Visualizer">RRG Visualizer </a>|
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
