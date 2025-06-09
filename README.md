@@ -12,12 +12,12 @@ To transition into a data analyst position where I can apply my hands-on experie
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Equity Factor Decomposition | <a href="https://github.com/PatrickRych/EquityFactor">Equity Factor Decomposition </a>|
-| Covariance & Correlation Modeling | <a href="https://google.com">Covariance & Correlation Modeling</a>|
-| Multi-Factor Regression        | Multi-Factor Regression  |
-| Trade Signal Dashboard    | Trade Signal Dashboard |
-| Rate Curve & Term Structure Modeling                  | Rate Curve & Term Structure Modeling|
-| Backtesting Engine for Strategy Testing | Backtesting Engine for Strategy Testing |
+| Equity Factor Decomposition | <a href="https://github.com/PatrickRych/EquityFactor">Equity Factor Model</a>|
+| Covariance & Correlation Modeling | <a href="https://google.com">Covariance & Correlation Matrix </a>|
+| Factor Regression        | Factor Regression Tool  |
+| Trade Signal Dashboard    | Quant Dashboard |
+| Rate Curve & Term Structure Modeling                  | Rate Dynamics |
+| Backtesting Engine for Strategy Testing | Backtesting Engine |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
