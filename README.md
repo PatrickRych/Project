@@ -1,4 +1,4 @@
-# Hello, I'm Patrick RychterAdd commentMore actions
+# Hello, I'm Patrick Rychter 
 <p align="left">
   <a href="https://www.linkedin.com/in/patrick-rychter-b86aa3162/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
