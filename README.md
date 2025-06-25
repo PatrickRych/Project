@@ -40,4 +40,4 @@ To transition into a data analyst role where I can leverage my applied experienc
 - <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>
 - <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>
 - <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
-- <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>
+- <a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>
