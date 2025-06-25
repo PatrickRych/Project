@@ -1,11 +1,13 @@
 # Hello, I'm Patrick Rychter
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Project manager with experience leading a family-run homebuilding and real estate investment business. Over the past 4 years, developed Excel-based quantitative models in my spare time, applying financial and econometric theory to guide trading strategies.
+## About Me
+
+Project manager with a background in managing a family-operated homebuilding and real estate investment business. Over the past four years, I’ve independently developed Excel-based quantitative models, integrating financial theory, econometrics, and macroeconomic analysis to inform systematic trading strategies and portfolio risk insights.
 
 ## Objective
 
-To transition into a data analyst position where I can apply my hands-on experience developing economic and statistical models in Excel, with a focus on translating real-world data into actionable insights for financial or operational performance.
+To transition into a data analyst role where I can leverage my applied experience in building economic models, analyzing real-world data, and translating complex systems into clear, actionable insights—particularly within financial markets, operations, or investment strategy environment
 
 ## Project Builds 
 
