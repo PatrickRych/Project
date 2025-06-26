@@ -10,7 +10,7 @@
 
 ## About Me
 
-Project manager with a background in managing a family-operated homebuilding and real estate investment business. Over the past four years, I’ve independently developed Excel-based quantitative models, integrating financial theory, econometrics, and macroeconomic analysis to inform systematic trading strategies and portfolio risk insights.
+Project manager with a background in managing a family-operated homebuilding and real estate investment business. Over the past four years, I’ve independently developed Excel-based quantitative models, integrating option theory, econometrics, and macroeconomic analysis to inform systematic trading strategies and portfolio risk insights.
 
 ## Objective
 
