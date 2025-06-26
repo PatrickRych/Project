@@ -43,4 +43,5 @@ To transition into a data analyst / research role where I can leverage my applie
 
 
 <a href="https://github.com/PatrickRych/Project/edit/main/README.md">LandingPage </a>
+
 <a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>
