@@ -25,7 +25,7 @@ To transition into a data analyst / research role where I can leverage my applie
 | Factor Regression        | <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>|
 | Trade Signal Dashboard    | <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>|
 | Rate Curve & Term Structure Modeling                  | <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>|
-| Backtesting Engine for Strategy Testing _(In-Progress)_| <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>|
+| Backtesting Engine for Strategy Testing _(In-Progress)_| <a href="https://github.com/PatrickRych/Backtesting-Engine">Backtesting Engine </a>|
 | Macro Economic Modeling _(In-Progress)_| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">Macro Analysis </a>|
 | Relative Rotation Modeling _(In-Progress)_| <a href="https://github.com/PatrickRych/RRG-Visualizer">RRG Visualizer </a>|
 | Potfolio and Journal Trade Analysis _(In-Progress)_| <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>|
@@ -38,7 +38,7 @@ To transition into a data analyst / research role where I can leverage my applie
 - <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>
 - <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>
 - <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>
-- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Backtesting Engine </a>
+- <a href="https://github.com/PatrickRych/Backtesting-Engine">Backtesting Engine </a>
 - <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
 
 
