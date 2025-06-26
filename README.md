@@ -14,7 +14,7 @@ Project manager with a background in managing a family-operated homebuilding and
 
 ## Objective
 
-To transition into a data analyst role where I can leverage my applied experience in building economic models, analyzing real-world data, and translating complex systems into clear, actionable insights—particularly within financial markets, operations, or investment strategy environment
+To transition into a data analyst / research role where I can leverage my applied experience in building economic models, analyzing real-world data, and translating complex systems into clear, actionable insights—particularly within financial markets, operations, or investment strategy environment
 
 ## Project Builds 
 
