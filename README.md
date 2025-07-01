@@ -26,9 +26,9 @@ To transition into a data analyst / research role where I can leverage my applie
 | Trade Signal Dashboard    | <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>|
 | Rate Curve & Term Structure Modeling                  | <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>|
 | Backtesting Engine for Strategy Testing _(In-Progress)_| <a href="https://github.com/PatrickRych/Backtesting-Engine">Backtesting Engine </a>|
-| Macro Economic Modeling _(In-Progress)_| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">Macro Analysis </a>|
+| Macro Economic Modeling _(Uploading)_| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">Macro Analysis </a>|
 | Relative Rotation Modeling _(In-Progress)_| <a href="https://github.com/PatrickRych/RRG-Visualizer">RRG Visualizer </a>|
-| Portfolio and Trade Journal _(In-Progress)_| <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>|
+| Portfolio and Trade Journal _(Uploading)_| <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>|
 | Streamlining Project Dasbhoard | <a href="https://docs.google.com/spreadsheets/d/1cGH8DdsKxnilSzRFiGaJpKJU3SX9-lLcmd0VYcglaHc/edit?gid=1307667379#gid=1307667379">Project Manager Dashboard (Google Docs.) </a>| 
 | Note Taking Sample | <a href="https://docs.google.com/document/d/1zwzJefF5VBCOGWu0TkwmXUbhcaJwWenfWTHzEAhM_b8/edit?tab=t.0"> Notes (Google Docs.)</a>|
 
