@@ -33,7 +33,7 @@ To transition into a data analyst / research role where I can leverage my applie
 | My Trading Playbook | <a href="https://docs.google.com/document/d/1zwzJefF5VBCOGWu0TkwmXUbhcaJwWenfWTHzEAhM_b8/edit?tab=t.0"> Notes (Google Docs.)</a>|
 
 
-## Projects
+## Excel Based Projects
 - <a href="https://github.com/PatrickRych/EquityFactor">Equity Risk Factor</a>
 - <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>
 - <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>
