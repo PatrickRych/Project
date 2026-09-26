@@ -1,48 +1,86 @@
-# Hello, I'm Patrick Rychter 
+# Patrick Rychter | Quantitative Research & Analytical Systems
+
 <p align="left">
   <a href="https://www.linkedin.com/in/patrick-rychter-b86aa3162/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Patrick%20Rychter-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://substack.com/@neurotrend">
-    <img src="https://img.shields.io/badge/-Substack-orange?style=for-the-badge&logo=substack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Substack-Neurotrend-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
   </a>
 </p>
 
-## About Me
+I build Excel-first quantitative research tools for **portfolio risk, options analysis, thematic screening, macro research, statistical relationships, and trading-process review**.
 
-Project manager with a background in managing a family-operated homebuilding and real estate investment business. Over the past four years, I’ve independently developed Excel-based quantitative models, integrating option theory, econometrics, and macroeconomic analysis to inform systematic trading strategies and portfolio risk insights.
+My background is in project management, homebuilding and real-estate investment. Over the last several years I have independently developed analytical systems that combine market data, option theory, econometrics, technical research and structured decision processes. This page is the central index for the projects and research I am making public.
 
-## Objective
+## Start here — featured projects
 
-To transition into a data analyst / research role where I can leverage my applied experience in building economic models, analyzing real-world data, and translating complex systems into clear, actionable insights—particularly within financial markets, operations, or investment strategy environment
+| Project | What it does | Current public version |
+|---|---|---|
+| **[CONVEX Portfolio Manager](https://github.com/PatrickRych/Convex-Portfolio-Manager)** | Options portfolio and trade-management system covering leg-level Greeks, position analytics, portfolio exposures, scenario analysis, risk limits and closed-trade review. | Synthetic $100k Excel demo, operating guide, architecture/methodology documentation and a separate 2026 journal-derived performance review. |
+| **[Thematic Scanner](https://github.com/PatrickRych/Thematic-Scanner-)** | Excel-based thematic equity and ETF screener that combines curated research boards with trend, ATR extension, momentum, volume and screening controls. | Documentation published; revised 150-block workbook is still being independently validated before a public demo is released. |
+| **[Quantitative Trading Research](https://github.com/PatrickRych/Quantitative-Trading-Research-)** | Research library for market-regime models, options behavior, calendar effects and cross-asset studies. | Research index and illustrated study/model notes published; source results are clearly separated from independently replicated findings. |
 
-## Project Builds 
+## How the portfolio fits together
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Equity Factor Decomposition | <a href="https://github.com/PatrickRych/EquityFactor">Equity Factor Model</a>|
-| Covariance & Correlation & Beta Modeling | <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>|
-| Factor Regression        | <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>|
-| Trade Signal Dashboard    | <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>|
-| Rate Curve & Term Structure Modeling                  | <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>|
-| Backtesting Engine for Strategy Testing _(In-Progress)_| <a href="https://github.com/PatrickRych/Backtesting-Engine">Backtesting Engine </a>|
-| Macro Economic Modeling _(Uploading)_| <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">Macro Analysis </a>|
-| Option Models | <a href="https://github.com/PatrickRych/RRG-Visualizer">Options Models </a>|
-| Portfolio and Trade Journal _(Uploading)_| <a href="https://github.com/PatrickRych/Portfolio-Manager">Portfolio Manager </a>|
-| Streamlining Project Efficiency Planner | <a href="https://docs.google.com/spreadsheets/d/1cGH8DdsKxnilSzRFiGaJpKJU3SX9-lLcmd0VYcglaHc/edit?gid=1307667379#gid=1307667379">Project Planner (Google Docs.) </a>| 
-| Options Journal & Position Manager | <a href="https://github.com/PatrickRych/Options-Journal-Position-Manager"> Portfolio & Journal </a>| 
-| My Trading Playbook | <a href="https://docs.google.com/document/d/1zwzJefF5VBCOGWu0TkwmXUbhcaJwWenfWTHzEAhM_b8/edit?tab=t.0"> Notes (Google Docs.)</a>|
+```mermaid
+flowchart LR
+    A[Thematic Scanner<br/>market & theme discovery] --> B[Quantitative Trading Research<br/>hypothesis & historical analysis]
+    B --> C[CONVEX Portfolio Manager<br/>position, portfolio & process risk]
+    D[Statistical building blocks<br/>correlation, regression, rates, options] --> A
+    D --> B
+    D --> C
+```
 
+The projects are meant to show a full analytical workflow: **organize the opportunity set → test relationships and hypotheses → understand option/market structure → size and monitor portfolio risk → review realized decisions and improve the process**.
 
-## Excel Based Projects
-- <a href="https://github.com/PatrickRych/EquityFactor">Equity Risk Factor</a>
-- <a href="https://github.com/PatrickRych/Covariance-Correlation-Matrix-/tree/main">Correlation Matrix</a>
-- <a href="https://github.com/PatrickRych/Factor-Regression-Tool">Factor Regression Tool</a>
-- <a href="https://github.com/PatrickRych/Quant-Dashboard">Quant Dashboard </a>
-- <a href="https://github.com/PatrickRych/Rate-Dynamic-Model">Rate Dynamic Modeling </a>
-- <a href="https://github.com/PatrickRych/Backtesting-Engine">Backtesting Engine </a>
-- <a href="https://github.com/PatrickRych/Macro-Factor-Analysis">RRG Visualizer </a>
+## Analytical building blocks
 
+| Repository | Focus | What it demonstrates |
+|---|---|---|
+| **[Covariance & Correlation Matrix](https://github.com/PatrickRych/Covariance-Correlation-Matrix-)** | Cross-asset covariance, rolling correlation and beta | Relationship monitoring, diversification analysis, hedge effectiveness and structural-break awareness. |
+| **[Regression Tool](https://github.com/PatrickRych/Regression-Tool)** | Beta, correlation, R² and regression diagnostics | Systematic-versus-idiosyncratic decomposition, rolling relationships and beta-based hedge sizing. |
+| **[U.S. Rate Dynamic Model](https://github.com/PatrickRych/Rate-Dynamic-Model)** | Treasury yield-curve and macro overlay | Term-structure shifts, curve inversion/steepening, monetary-policy context and rate-regime monitoring. |
+| **[Options Pricing Models](https://github.com/PatrickRych/RRG-Visualizer)** | Black-Scholes and option-price simulation | Option valuation, sensitivity to spot/volatility/time, payoff comparison and implied-versus-realized context. |
+| **[Macro Factor Analysis](https://github.com/PatrickRych/Macro-Factor-Analysis)** | Macro-factor research workspace | Early-stage repository; public documentation is still being built. |
+| **[Backtesting Engine](https://github.com/PatrickRych/Backtesting-Engine)** | Strategy-testing framework | Early-stage repository; public documentation is still being built. |
 
-| <a href="https://github.com/PatrickRych/Project">LandingPage </a>
-| <a href="https://github.com/PatrickRych/Portfolio-Manager">Project Archive </a>
+## What I am trying to demonstrate
+
+Across these repositories, the emphasis is on applied analytical work rather than isolated spreadsheets:
+
+- translating discretionary research questions into structured models;
+- connecting transaction-level data to position- and portfolio-level risk;
+- using beta, correlation, regression, volatility and option Greeks in practical workflows;
+- building transparent Excel systems with auditable formulas and clear assumptions;
+- separating exploratory findings from validated evidence;
+- documenting limitations, data-quality risks and publication caveats;
+- turning historical results into specific process-improvement questions.
+
+## Current flagship work
+
+### CONVEX — portfolio risk + trading-process feedback
+
+CONVEX is the most complete system in the portfolio. The public repository includes a synthetic demonstration workbook and operating guide, while the new **2026 Trading Performance Review** shows how the journal feeds back into the process through profit factor, R-multiples, setup attribution, drawdown analysis and loss-tail diagnostics.
+
+**[Open CONVEX →](https://github.com/PatrickRych/Convex-Portfolio-Manager)**
+
+### Thematic Scanner — discovery and filtering
+
+The scanner organizes a large thematic universe into boards and groups, then compares securities using price-history-derived technical measures. It is intended to narrow a research universe, not generate automatic trade recommendations.
+
+**[Open Thematic Scanner →](https://github.com/PatrickRych/Thematic-Scanner-)**
+
+### Quantitative Trading Research — studies and model reports
+
+This repository is the publication layer for independent research. It currently includes event-study work and documented model research covering options expiration, stock/bond calendar behavior, macro regimes and single-ticker quantitative analysis.
+
+**[Open Quantitative Trading Research →](https://github.com/PatrickRych/Quantitative-Trading-Research-)**
+
+## Development direction
+
+The next stage is to move selected spreadsheet engines into reproducible code where testing, version control and point-in-time data handling are easier. The Excel models remain useful because they make the full calculation chain visible; Python is the natural next layer for repeatability and larger-scale validation.
+
+---
+
+**Portfolio note:** These are self-directed analytical projects. Public demo data and historical research are labeled according to their source and verification status. Nothing here is investment advice, audited performance or institutional production infrastructure.
