@@ -20,6 +20,7 @@ My background is in project management, homebuilding and real-estate investment.
 | **[CONVEX Portfolio Manager](https://github.com/PatrickRych/Convex-Portfolio-Manager)** | Options portfolio and trade-management system covering leg-level Greeks, position analytics, portfolio exposures, scenario analysis, risk limits and closed-trade review. | Synthetic $100k Excel demo, operating guide, architecture/methodology documentation and a separate 2026 journal-derived performance review. |
 | **[Thematic Scanner](https://github.com/PatrickRych/Thematic-Scanner-)** | Excel-based thematic equity and ETF screener that combines curated research boards with trend, ATR extension, momentum, volume and screening controls. | Documentation published; revised 150-block workbook is still being independently validated before a public demo is released. |
 | **[Quantitative Trading Research](https://github.com/PatrickRych/Quantitative-Trading-Research-)** | Research library for market-regime models, options behavior, calendar effects and cross-asset studies. | Research index and illustrated study/model notes published; source results are clearly separated from independently replicated findings. |
+| **[Volatility Positioning Map](https://github.com/PatrickRych/Volatility-Positioning-Map)** | Cross-sectional volatility dashboard combining IV, realized volatility, skew, volatility risk premium, ATR-normalized trend extension, volume scoring and a regime filter across 25 liquid ETFs/ETPs. | Documentation and model screenshots; public demo workbook pending data/vendor sanitization. |
 
 ## How the portfolio fits together
 
@@ -70,6 +71,12 @@ CONVEX is the most complete system in the portfolio. The public repository inclu
 The scanner organizes a large thematic universe into boards and groups, then compares securities using price-history-derived technical measures. It is intended to narrow a research universe, not generate automatic trade recommendations.
 
 **[Open Thematic Scanner →](https://github.com/PatrickRych/Thematic-Scanner-)**
+
+### Volatility Positioning Map — cross-sectional volatility context
+
+This model compares implied volatility, realized volatility, skew, volatility risk premium and trend/extension across a 25-ETF universe. Three scatter maps make it easier to see where option pricing and realized conditions sit relative to each other, while a fixed-strike tracker separates true IV repricing from simple movement along the smile.
+
+**[Open Volatility Positioning Map →](https://github.com/PatrickRych/Volatility-Positioning-Map)**
 
 ### Quantitative Trading Research — studies and model reports
 
